@@ -1,0 +1,5 @@
+Country,Institution,Course_Type,Annual_Revenue_GBP,Tuition_Fee_GBP,Profit_Margin_Percent,Total_Students,Percent_UK_Students,Percent_US_Students,Percent_Other,Median_Age,Percent_Female,Percent_Male,Degree_Level,Annual_Revenue_USD,Tuition_Fee_USD
+UK,University of Edinburgh,LLB,18000000.0,22700.0,30,2100,78,2,20,20,55,45,Bachelor,,
+UK,University of Manchester,LLB,14000000.0,22500.0,28,1800,75,3,22,21,53,47,Bachelor,,
+US,Harvard Law School,J.D.,,,40,1700,1,90,9,24,49,51,Doctorate,45000000.0,55000.0
+US,Georgetown University Law Center,J.D.,,,35,2176,1,89,10,25,56,44,Doctorate,30000000.0,52000.0

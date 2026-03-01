@@ -1,0 +1,11 @@
+Country,Year,Provider,Course_Type,Sales_USD_Millions,Profit_Margin_Percent,Avg_Learner_Age,Percent_Female,Percent_Male,Percent_Under25,Percent_25_45,Percent_45plus
+UK,2024,FutureLearn,AI Fundamentals,15,40,27,45,55,30,50,20
+UK,2024,Open University,ML & AI,10,38,32,40,60,25,55,20
+UK,2024,Cambridge Spark,Data Science & AI,13.6,35,29,48,52,35,45,20
+UK,2024,Pearson,AI for Educators,8,30,41,52,48,20,50,30
+UK,2025,FutureLearn,AI Fundamentals,18,42,28,47,53,32,48,20
+US,2024,Coursera,AI & Machine Learning,45,50,30,46,54,40,45,15
+US,2024,edX,AI Certificate,30,47,33,42,58,35,50,15
+US,2024,Udacity,AI Nanodegree,50,55,28,38,62,45,40,15
+US,2024,LinkedIn Learning,AI Business Skills,25,40,37,50,50,30,50,20
+US,2025,Coursera,AI & Machine Learning,55,52,31,44,56,42,45,13
